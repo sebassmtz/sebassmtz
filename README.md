@@ -75,7 +75,7 @@ const sebas = {
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" width="50"> Spotify Playing
 
-Cooming Soong
+[![Spotify](https://sebastian01973.vercel.app/api/spotify)]()
   
   
 
