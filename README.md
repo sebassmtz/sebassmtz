@@ -73,8 +73,10 @@ const sebas = {
 
  <br/>
 
-## <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3ASpotify_logo_without_text.svg&psig=AOvVaw07u4dQPjvQCIDqWHK_oL8j&ust=1654292506614000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPj0g_zdj_gCFQAAAAAdAAAAABAD" width="50"> Spotify Playing
+## <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" width="50"> Spotify Playing
 
 Cooming Soong
+  
+  
 
 <!-- Inspired in Navis Code and Thaiane-->
