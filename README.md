@@ -18,8 +18,7 @@ const sebas = {
   database: [Oracle, MySql],
   tools: [React, Vue.js],
   architecture: ["Coming soon"],
-  
- challenge: "I am doing the undergraduate degree in systems engineering"
+  challenge: "I am doing the undergraduate degree in systems engineering"
  
 }
 ```
@@ -33,13 +32,19 @@ const sebas = {
 
 [<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][git]
 
+[<img align="left" alt="Typescript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][git]
+
 [<img align="left" alt="Vue" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][git]
 
 [<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][git]
 
-[<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][git]
 
 [<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][git]
+
+[<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][git]
+
+[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][git]
+
 
 <br/>
 
@@ -66,4 +71,10 @@ const sebas = {
  <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
- <br></br>
+ <br/>
+
+## <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3ASpotify_logo_without_text.svg&psig=AOvVaw07u4dQPjvQCIDqWHK_oL8j&ust=1654292506614000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPj0g_zdj_gCFQAAAAAdAAAAABAD" width="50"> Spotify Playing
+
+Cooming Soong
+
+<!-- Inspired in Navis Code and Thaiane-->
