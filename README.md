@@ -71,11 +71,13 @@ const sebas = {
  <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
- <br/>
+<br/>
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" width="50"> Spotify Playing
+  
+<br/>
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)]()
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/sebastian01973)
   
   
 
