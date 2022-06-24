@@ -16,7 +16,8 @@ const sebas = {
   Hobbies: [VideoGames, Gym, Cycling],
   code: [Python, Java, Javascript, Typescript, HTML, CSS],
   database: [Oracle, MySql],
-  tools: [React, Vue.js],
+  tools: [Vue.js],
+  workTools : [Jira],
   architecture: ["Coming soon"],
   challenge: "I am doing the undergraduate degree in systems engineering"
  
