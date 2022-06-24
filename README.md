@@ -12,7 +12,7 @@
 
 ```javascript
 const sebas = {
-  pronouns: "He" | "his",
+  pronouns: "He" | "his" | "Pacho",
   Hobbies: [VideoGames, Gym, Cycling],
   code: [Python, Java, Javascript, Typescript, HTML, CSS],
   database: [Oracle, MySql],
