@@ -18,7 +18,7 @@ const sebas = {
   database: [Oracle, MySql],
   tools: [Vue.js],
   workTools : [Jira],
-  architecture: ["Coming soon"],
+  architecture: ["MVC"],
   challenge: "I am doing the undergraduate degree in systems engineering"
  
 }
