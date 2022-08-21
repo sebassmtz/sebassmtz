@@ -31,7 +31,7 @@ const sebas = {
 <div align='center'>
   
   <!-- Settings:  https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b -->
-  <!-- Settings Icons: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
+  <!-- Settings Icons: https://github.com/badges/shields/blob/master/doc/logos.md -->
   
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
