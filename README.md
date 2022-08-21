@@ -62,13 +62,16 @@ const sebas = {
 - Cybersecurity and Ethical Hacking _Progress 1%_
   
  --- 
-
+<div align='center'>
+  
   ### My GitHub Stats
   
+  ![Sebastian01973's gitHub stats](https://github-readme-stats.vercel.app/api?username=Sebastian01973&show_icons=true&theme=merko)
+  <br>
+  ![Sebastian01973's top-langs used](https://github-readme-stats.vercel.app/api/top-langs?  username=Sebastian01973&show_icons=true&locale=en&layout=compact&langs_count=10&theme=merko)
   
-![Sebastian01973's gitHub stats](https://github-readme-stats.vercel.app/api?username=Sebastian01973&show_icons=true&theme=radical)
-  
-![Sebastian01973's top-langs used](https://github-readme-stats.vercel.app/api/top-langs?username=Sebastian01973&show_icons=true&locale=en&layout=compact&langs_count=10&theme=radical)
+</div>  
+--- 
 
 ## Connect with me <img src="https://github.com/Sebastian01973/Sebastian01973/blob/main/resources/Hands.gif" height="32px">
 
