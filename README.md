@@ -61,6 +61,10 @@ const sebas = {
 - Graphic Designer _Progress 3%_
 - Cybersecurity and Ethical Hacking _Progress 1%_
 
+### My GitHub Stats
+  
+![Sebastian01973's gitHub stats](https://github-readme-stats.vercel.app/api?username=Sebastian01973&show_icons=true&theme=radical)    
+
 ## Connect with me <img src="https://github.com/Sebastian01973/Sebastian01973/blob/main/resources/Hands.gif" height="32px">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/sebastian01973?color=1DA1F2&label=sebas&logo=twitter&style=for-the-badge)](https://twitter.com/sebastian01973)
