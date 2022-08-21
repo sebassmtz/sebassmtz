@@ -4,7 +4,7 @@
 
 ## 💻 What I am currently/done working on
 
-- Coming soon 🚀
+- MisionTic 2022 🚀
 
 ## <img src="https://media4.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=ecf05e474ojwxk1jee7kin9kmqu1sovn54z4utewiuuwxl9m&rid=giphy.gif&ct=s" width="50"> A little more about me...  
 
@@ -23,37 +23,25 @@ const sebas = {
  
 }
 ```
+ 
+---
+ 
+### 🚀 Technology Stack
+
+<div align='center'>
+  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-64D62D?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-64D62D?style=flat-square&logo=nodedotjs&logoColor=green"/>
+  <!-- <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/> -->
+</div>
+
 
 ---
-### 🚀 Coding
 
-[<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][git]
-
-[<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][git]
-
-[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][git]
-
-[<img align="left" alt="Typescript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][git]
-
-[<img align="left" alt="Vue" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][git]
-
-[<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][git]
-
-
-[<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][git]
-
-[<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][git]
-
-[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][git]
-
-
-<br/>
-
----
-<!-- LINKS-->
-[git]: https://github.com/Sebastian01973
-
-
+ <!--GitHub Stats -->
 
 ## 📖What I am currently learning
 
@@ -62,6 +50,9 @@ const sebas = {
 - Cybersecurity and Ethical Hacking _Progress 1%_
   
  --- 
+  
+ <!--GitHub Stats -->
+  
 <div align='center'>
   
   ### My GitHub Stats
@@ -76,7 +67,11 @@ const sebas = {
 
 --- 
 
+<!--Connect with me -->
+
 ## Connect with me <img src="https://github.com/Sebastian01973/Sebastian01973/blob/main/resources/Hands.gif" height="32px">
+
+<div>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/sebastian01973?color=1DA1F2&label=sebas&logo=twitter&style=for-the-badge)](https://twitter.com/sebastian01973)
 
@@ -88,6 +83,10 @@ const sebas = {
 </a>
 
 <br/>
+  
+ </div>
+
+<!-- PlayListy Spotify-->
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" width="50"> Spotify Playing
   
@@ -97,4 +96,8 @@ const sebas = {
   
   
 
-<!-- Inspired in Navis Code and Thaiane-->
+<!-- Inspired in Navis Code, Thaiane and palashmon -->
+
+<!-- LINKS-->
+
+[git]: https://github.com/Sebastian01973
