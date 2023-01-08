@@ -17,15 +17,14 @@ const Sebastian = {
   pronouns: "He" | "his" | "Pacho" | "Sebas",
   Hobbies: [VideoGames, Gym, Cycling],
   code: [Python, Java, Javascript, HTML, CSS],
-  frameworks: [Django, Sprint, Bootstrap],
+  frameworks: [Django, Sprint, Bootstrap, Vue.js, React.js],
   database: [Oracle, MySql, MongoDB, Postgrees],
-  tools: [Vue.js, React.js],
-  workTools : [Jira, Trello ],
-<!--   architecture: ["MVC"], -->
+  tools: [Git, Visualcode, Intellij, PyCharm],
+  workTools : [Jira, Trello, Notion],
   challenge: "I am doing the undergraduate degree in systems engineering"
 }
 ```
-
+<!--   architecture: ["MVC"], -->
 ---
 <!-- Technology Stack-->
 <h2 align="center">
@@ -54,27 +53,31 @@ const Sebastian = {
     
   <a href="https://www.javascript.com/">
     <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png"
-         alt="JavaScript" width="50">
+         alt="JavaScript" width="35">
     
   <a href="https://es.reactjs.org/">
     <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png"
-         alt="React.js" width="50">
+         alt="React.js" width="35">
     
   <a href="https://www.w3schools.com/html/">
     <img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png"
-         alt="Html" width="50">
+         alt="Html" width="35">
   
   <a href="https://www.w3schools.com/css/">
     <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png"
-         alt="Css" width="50">
+         alt="Css" width="35">
   
   <a href="https://www.postgresql.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"
-         alt="PostGrees" width="50">
+         alt="PostGrees" width="35">
     
   <a href="https://www.mysql.com/">
     <img src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png"
-         alt="MySql" width="50">
+         alt="MySql" width="35">
+    
+  <a href="https://www.linux.org/">
+    <img src="https://seeklogo.com/images/L/Linux_Tux-logo-DA252F3C21-seeklogo.com.png"
+         alt="Linux" width="35">
      
 </div>
    
