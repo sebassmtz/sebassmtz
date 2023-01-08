@@ -5,6 +5,8 @@
 ## 💻 What I am currently/done working on
 
 - MisionTic 2022 🚀
+- Platzi Courses 📚
+- Alura One 🎓
 
 ## <img src="https://media4.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=ecf05e474ojwxk1jee7kin9kmqu1sovn54z4utewiuuwxl9m&rid=giphy.gif&ct=s" width="50"> A little more about me...  
 
