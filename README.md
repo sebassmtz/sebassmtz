@@ -36,19 +36,19 @@ const Sebastian = {
   
   <a href="https://www.java.com/es/">
     <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png"
-         alt="Java" width="50">
+         alt="Java" width="35">
 
   <a href="https://spring.io/">
     <img src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" 
-      alt="Spring"  width="50">
+      alt="Spring"  width="35">
     
   <a href="https://www.python.org/">
     <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"
-         alt="Python" width="50">
+         alt="Python" width="35">
    
   <a href="https://www.djangoproject.com/">
     <img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png"
-         alt="Django" width="50"> 
+         alt="Django" width="35"> 
   
     
   <a href="https://www.javascript.com/">
