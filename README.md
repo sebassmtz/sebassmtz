@@ -98,10 +98,14 @@ const Sebastian = {
   
   ### My GitHub Stats
   
-  ![Sebastian01973's gitHub stats](https://github-readme-stats.vercel.app/api?username=Sebastian01973&show_icons=true&theme=merko)
+<!--   ![Sebastian01973's gitHub stats](https://github-readme-stats.vercel.app/api?username=Sebastian01973&show_icons=true&theme=merko)
   
- 
-  ![Sebastian01973's top-langs used](https://github-readme-stats.vercel.app/api/top-langs?username=Sebastian01973&show_icons=true&locale=en&layout=compact&langs_count=10&theme=merko)
+  ![Sebastian01973's top-langs used](https://github-readme-stats.vercel.app/api/top-langs   username=Sebastian01973&show_icons=true&locale=en&layout=compact&langs_count=10&theme=merko) -->
+  
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sebastian01973&show_icons=true&theme=gotham" alt="sebastian" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebastian01973&hide=html,css&theme=gotham" alt="sebastian" />
+  </p>
   
 </div>
 
