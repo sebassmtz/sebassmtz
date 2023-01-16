@@ -3,8 +3,8 @@
 <p><em>Student of Systems Engineering and Computing at <a href="https://www.uptc.edu.co/sitio/portal/">UPTC </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
 
 ## 💻 What I am currently/done working on
-
-- MisionTic 2022 🚀
+  
+- Freelancer 💻
 - Platzi Courses 📚
 - Alura One 🎓
 
