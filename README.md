@@ -2,11 +2,15 @@
 
 <p><em>Student of Systems Engineering and Computing at <a href="https://www.uptc.edu.co/sitio/portal/">UPTC </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
 
+<!--
+
 ## 💻 What I am currently/done working on
   
 - Freelancer 💻
 - Platzi Courses 📚
 - Alura One 🎓
+
+-->
 
 ## <img src="https://media4.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=ecf05e474ojwxk1jee7kin9kmqu1sovn54z4utewiuuwxl9m&rid=giphy.gif&ct=s" width="50"> A little more about me...  
 
