@@ -20,12 +20,11 @@
 const Sebastian = {
   pronouns: "He" | "his" | "Pacho" | "Sebas",
   Hobbies: [VideoGames, Gym, Cycling],
-  code: [Python, Java, Javascript, HTML, CSS],
-  frameworks: [Django, Sprint, Bootstrap, Vue.js, React.js],
+  code: [Python, Java, Javascript, Typescript, Node.js, SCSS, CSS],
+  frameworks: [Django, Spring Boot, Tailwind, React.js,Vue.js, Next.js(13)],
   database: [Oracle, MySql, MongoDB, Postgrees],
-  tools: [Git, Visualcode, Intellij, PyCharm],
+  tools: [Git, Visualcode, Intellij, Datagrip],
   workTools : [Jira, Trello, Notion],
-  challenge: "I am doing the undergraduate degree in systems engineering"
 }
 ```
 <!--   architecture: ["MVC"], -->
@@ -53,15 +52,22 @@ const Sebastian = {
   <a href="https://www.djangoproject.com/">
     <img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png"
          alt="Django" width="35"> 
-  
     
   <a href="https://www.javascript.com/">
     <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png"
          alt="JavaScript" width="35">
     
+   <a href="https://www.typescriptlang.org/">
+    <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png"
+         alt="Typescript" width="35">
+    
   <a href="https://es.reactjs.org/">
     <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png"
          alt="React.js" width="35">
+
+  <a href="https://nextjs.org/">
+    <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png"
+         alt="Next.js" width="35">
     
   <a href="https://www.w3schools.com/html/">
     <img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png"
@@ -82,7 +88,6 @@ const Sebastian = {
   <a href="https://www.linux.org/">
     <img src="https://seeklogo.com/images/L/Linux_Tux-logo-DA252F3C21-seeklogo.com.png"
          alt="Linux" width="35">
-     
 </div>
    
 
