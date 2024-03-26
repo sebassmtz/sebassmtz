@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sebassmtz.sebassmtz" />
+
 # Hi There! My name is <a href="https://sm-portfolio-dun.vercel.app/en">Sebastian Martinez</a> <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="30"/>
 
 <p><em>Student of Systems Engineering and Computing at <a href="https://www.uptc.edu.co/sitio/portal/">UPTC </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
@@ -149,7 +151,7 @@ const Sebastian = {
     
 <div align='center'>
   
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/sebastian01973) 
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/sebassmtz) 
   
 </div>
   
