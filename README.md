@@ -20,16 +20,17 @@
 
 ```javascript
 const Sebastian = {
-  pronouns: "He" | "his" | "Pacho" | "Sebas",
+  Pronouns: "He" | "his" | "Pacho" | "Sebas",
   Hobbies: [VideoGames, Gym, Cycling],
-  code: [Python, Java, Javascript, Typescript, Node.js, SCSS, CSS],
-  frameworks: [Django, Spring Boot, Tailwind, React.js,Vue.js, Next.js(13)],
-  database: [Oracle, MySql, MongoDB, Postgrees],
-  tools: [Git, Visualcode, Intellij, Datagrip],
-  workTools : [Jira, Trello, Notion],
+  Code: [Java, C#, Python, Javascript, Typescript, Node.js],
+  Frameworks Backend: [Spring Boot, .Net Core, Django, Flask, Express.js, Nest.js],
+  Frameworks Frontend: [React.js, Next.js, Vue.js, Tailwind, SASS],
+  Database: [Oracle, MySql, MongoDB, Postgrees, SQL Server],
+  Tools: [Git, Docker, Terraform, Linux],
+  Cloud: [Google Cloud, Amazon AWS, Azure DevOps],
+  Other: [RESTful, DDD, WebSocket, SCRUM, Clean Architecture],
 }
 ```
-<!--   architecture: ["MVC"], -->
 ---
 <!-- Technology Stack-->
 <h2 align="center">
