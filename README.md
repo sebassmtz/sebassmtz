@@ -155,24 +155,8 @@ const Sebastian = {
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+Credits: [sebassmtz](https://github.com/sebassmtz)
 
-<!--Connect with me -->
-    
-<h2 align="center">
-    Connect with me <img src="https://github.com/Sebastian01973/Sebastian01973/blob/main/resources/Hands.gif" height="32px">
-</h2>
-
-<div align='center'>
-  
-[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/sebas-martinez01/)
-[![gmail][gmail-shield]](mailto:sebastian0197333@gmail.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/sebastian01973?color=1DA1F2&label=sebas&logo=twitter&style=for-the-badge)](https://twitter.com/sebastian01973)
-[![Twitter URL](https://img.shields.io/twitter/url?color=E33478&label=Sebas._.97&logo=instagram&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fsebas._.97%2F)](https://www.instagram.com/sebas._.97/)
-  
-
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
- 
-</div>
+Last Edited on: 1/09/2024
  
 
