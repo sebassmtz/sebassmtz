@@ -150,6 +150,8 @@
 
 </div>
 
+<!--Icons of github-->
+
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
 <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> 
 
@@ -164,8 +166,8 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Credits: [sebassmtz](https://github.com/sebassmtz)
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-Last Edited on: 1/09/2024
- 
+<br>
+<p align="right" > Created with 🧡 by <a href="https://github.com/sebassmtz">Sebastian Martinez</a></p>
 
