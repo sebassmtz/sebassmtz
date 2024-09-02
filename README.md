@@ -1,4 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sebassmtz.sebassmtz" />
 
 # Hi There! My name is <a href="https://sm-portfolio-dun.vercel.app/en">Sebastian Martinez</a> <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="30"/>
 
@@ -106,22 +105,56 @@ const Sebastian = {
   
  <!--GitHub Stats -->
   
-<div align='center'>
-  
-  ### My GitHub Stats
-  
-<!--   ![Sebastian01973's gitHub stats](https://github-readme-stats.vercel.app/api?username=Sebastian01973&show_icons=true&theme=merko)
-  
-  ![Sebastian01973's top-langs used](https://github-readme-stats.vercel.app/api/top-langs   username=Sebastian01973&show_icons=true&locale=en&layout=compact&langs_count=10&theme=merko) -->
-  
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sebassmtz&show_icons=true&theme=gotham" alt="sebastian" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebassmtz&hide=html,css&theme=gotham" alt="sebastian" />
-  </p>
-  
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
+
+<!--- stats & Trophy (start) -->
+
+<p align="left">
+  <!--- stats (start) -->
+<table align="left">
+<tr border="none">
+<td width="50%" align="center">
+  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=sebassmtz&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sebassmtz&theme=dark&hide_border=false" /> 
+</td>
+
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sebassmtz&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+
+<div align=left>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=sebassmtz&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
 </div>
 
---- 
+<!--- trophy (start) -->
+</p>        
+<!--- stats (end) -->
+
+<br>
+
+<!--profile visit count-->
+
+<div align="center">
+
+
+[![](https://visitcount.itsvg.in/api?id=sebassmtz&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
+
+</div>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <!--Connect with me -->
     
@@ -142,23 +175,4 @@ const Sebastian = {
  
 </div>
  
---- 
-<!-- PlayListy Spotify-->
-<h2 align="center">
-  <br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" width="50"> Spotify Playing
-  <br>
-</h2>
-    
-<div align='center'>
-  
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/sebassmtz) 
-  
-</div>
-  
-  
-<!-- Inspired in Navis Code, Thaiane and palashmon -->
 
-<!-- LINKS-->
-
-[git]: https://github.com/Sebastian01973
