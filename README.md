@@ -51,79 +51,55 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 🚀💻 Technologies & Tools
 
-<!-- Cambiar esto y ya uwu -->
-<!-- Technology Stack-->
-<h2 align="center">
-  <br>
-  🚀 Technology Stack 🚀
-  <br>
-</h2>
-<div align='center'>
-  
-  <a href="https://www.java.com/es/">
-    <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png"
-         alt="Java" width="35">
+### <u> Languages: </u>
+<br>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cs,py,nodejs,ts,js,html,css" />
+  </a>
+</p>
 
-  <a href="https://spring.io/">
-    <img src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" 
-      alt="Spring"  width="35">
-    
-  <a href="https://www.python.org/">
-    <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"
-         alt="Python" width="35">
-   
-  <a href="https://www.djangoproject.com/">
-    <img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png"
-         alt="Django" width="35"> 
-    
-  <a href="https://www.javascript.com/">
-    <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png"
-         alt="JavaScript" width="35">
-    
-   <a href="https://www.typescriptlang.org/">
-    <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png"
-         alt="Typescript" width="35">
-    
-  <a href="https://es.reactjs.org/">
-    <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png"
-         alt="React.js" width="35">
+##### <u> Frameworks backend: </u>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,dotnet,django,flask,fastapi,nestjs,express" />
+  </a>
+</p>
 
-  <a href="https://nextjs.org/">
-    <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png"
-         alt="Next.js" width="35">
-    
-  <a href="https://www.w3schools.com/html/">
-    <img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png"
-         alt="Html" width="35">
-  
-  <a href="https://www.w3schools.com/css/">
-    <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png"
-         alt="Css" width="35">
-  
-  <a href="https://www.postgresql.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"
-         alt="PostGrees" width="35">
-    
-  <a href="https://www.mysql.com/">
-    <img src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png"
-         alt="MySql" width="35">
-    
-  <a href="https://www.linux.org/">
-    <img src="https://seeklogo.com/images/L/Linux_Tux-logo-DA252F3C21-seeklogo.com.png"
-         alt="Linux" width="35">
-</div>
-   
+##### <u> Frameworks frontend: </u>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,tailwind,redux" />
+  </a>
+</p>
 
----
+### <u> Databases and ORM: </u>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sqlite,sequelize,prisma," />
+  </a>
+</p>
 
+### <u> Cloud Servers: </u>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,firebase,vercel" />
+  </a>
+</p>
 
-<!-- ## 📖What I am currently learning
+### <u> Tools: </u>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,neovim,arch,ubuntu,pnpm,yarn,postman" />
+  </a>
+</p>
 
-- Full Stack Web Development _Progress 5%_
-- Graphic Designer _Progress 3%_
-- Cybersecurity and Ethical Hacking _Progress 1%_ -->
-  
+<br/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
   
  <!--GitHub Stats -->
   
