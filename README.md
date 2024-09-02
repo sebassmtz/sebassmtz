@@ -3,6 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Sebastian Martinez</h1>
 <h3 align="center">A passionate Programmer from Colombia</h3>
+<p align="center">I'm fascinated by how computer technology 🌐 has brought changes to our lives; witnessing the expansion of computing allowed me to study Computer and Systems Engineering from an early age, and my enthusiasm has grown steadily since then. And I also love exploring new technologies 💻 and leveraging them to create cool things 🛠️</p>
 
 
 <p align="center"> 
