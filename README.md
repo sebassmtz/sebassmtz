@@ -1,36 +1,57 @@
 
-# Hi There! My name is <a href="https://sm-portfolio-dun.vercel.app/en">Sebastian Martinez</a> <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="30"/>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<p><em>Student of Systems Engineering and Computing at <a href="https://www.uptc.edu.co/sitio/portal/">UPTC </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
-
-<!--
-
-## 💻 What I am currently/done working on
-  
-- Freelancer 💻
-- Platzi Courses 📚
-- Alura One 🎓
-
--->
-
-## <img src="https://media4.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=ecf05e474ojwxk1jee7kin9kmqu1sovn54z4utewiuuwxl9m&rid=giphy.gif&ct=s" width="50"> A little more about me...  
+<h1 align="center">Hi 👋, I'm Sebastian Martinez</h1>
+<h3 align="center">A passionate Programmer from Colombia</h3>
 
 
+<p align="center"> 
 
-```javascript
-const Sebastian = {
-  Pronouns: "He" | "his" | "Pacho" | "Sebas",
-  Hobbies: [VideoGames, Gym, Cycling],
-  Code: [Java, C#, Python, Javascript, Typescript, Node.js],
-  Frameworks Backend: [Spring Boot, .Net Core, Django, Flask, Express.js, Nest.js],
-  Frameworks Frontend: [React.js, Next.js, Vue.js, Tailwind, SASS],
-  Database: [Oracle, MySql, MongoDB, Postgrees, SQL Server],
-  Tools: [Git, Docker, Terraform, Linux],
-  Cloud: [Google Cloud, Amazon AWS, Azure DevOps],
-  Other: [RESTful, DDD, WebSocket, SCRUM, Clean Architecture],
-}
-```
----
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+<br>
+
+
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+<br><br><br><br>
+
+<img align="right" alt="Morty" height="240" width="370" src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif">
+
+🔭 I’m currently working on **.**
+
+🌱 I’m currently learning **Amazon AWS cloud**
+
+👨‍💻 All of about me is available at [sebasmtz's portfolio](https://sm-portfolio-dun.vercel.app/en)
+
+💬 Ask me about **Node.js, Python, Java**
+
+📫 How to reach me **sebassmtz24@gmail.com**
+
+⚡ Fun fact **I think I'm funny**
+
+<br><br>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<!-- Cambiar esto y ya uwu -->
 <!-- Technology Stack-->
 <h2 align="center">
   <br>
